@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\jimmy_000\Desktop\iTalthon\venv"
+$env:VIRTUAL_ENV="C:\Users\jimmy_000\Documents\GitHub\Python_seience\iTalthon\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name

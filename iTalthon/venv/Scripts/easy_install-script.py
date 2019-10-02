@@ -1,4 +1,4 @@
-#!C:\Users\jimmy_000\Desktop\iTalthon\venv\Scripts\python.exe
+#!C:\Users\jimmy_000\Documents\GitHub\Python_seience\iTalthon\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re

@@ -5,8 +5,8 @@ class BubbleSort(object):
     after_sort = []
     def __init__(self, list):
         self.list = list
-        self.after_sort = list
     def sort(self):
+        self.after_sort = self.list
         for x in range(0, len(self.after_sort) - 1):
             booleaner = False
             for y in range(0, len(self.after_sort) - 1):
