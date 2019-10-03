@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BubbleSort_OO_Re.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/iTalthon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/iTalthon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/1A2B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Bit_encode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lab_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Main_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Object_ori.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort_OO.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Main_file (1)">
+  <component name="RunManager" selected="Python.BubbleSort_OO">
     <configuration name="1A2B (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bit_encode (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BubbleSort_OO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Desktop\iTalthon\venv\Bit_encode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BubbleSort_OO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main_file.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jason Lin\Documents\GitHub\Python_science\iTalthon\BubbleSort_OO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BubbleSort_OO" />
         <item itemvalue="Python.Main_file (1)" />
         <item itemvalue="Python.1A2B (1)" />
         <item itemvalue="Python.Main_file" />
         <item itemvalue="Python.Object_ori" />
-        <item itemvalue="Python.Bit_encode (1)" />
       </list>
     </recent_temporary>
   </component>
