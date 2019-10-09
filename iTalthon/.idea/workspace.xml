@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program_File/Pandas_Testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1A2B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/1A2B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/About_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bit_encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Bit_encode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort_OO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/BubbleSort_OO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort_OO_Re.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/BubbleSort_OO_Re.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Display_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Display_override.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Lab_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_combiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/List_combiner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NstepTimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/NstepTimes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Numpy_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object_ori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Object_ori.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Testing_text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The_file_RNW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/The_file_RNW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Testing_text.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +29,7 @@
   </component>
   <component name="ProjectId" id="1RT6Yckv99C9gj4VQIkCltqZvuz" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -62,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Numpy_test">
-    <configuration name="About_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Pandas_Testing">
+    <configuration name="About_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +61,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\About_pandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/About_pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="List_combiner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="iTalthon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/List_combiner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,27 +116,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NstepTimes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="iTalthon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\NstepTimes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Numpy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The_file_RNW" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Pandas_Testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\The_file_RNW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/Pandas_Testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pandas_Testing" />
+        <item itemvalue="Python.About_pandas" />
+        <item itemvalue="Python.List_combiner (1)" />
         <item itemvalue="Python.Numpy_test" />
         <item itemvalue="Python.List_combiner" />
-        <item itemvalue="Python.The_file_RNW" />
-        <item itemvalue="Python.NstepTimes" />
-        <item itemvalue="Python.About_numpy" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,5 @@
+  Students  Attendance  Quizzes  Final_exam  Average  Changed_score
+0      王曉明          48       68          56    54.80      70.473725
+1      李小美          75       52          40    50.35      67.551763
+2      陳小華          70       60          39    51.10      68.053019
+3      蔣小偉          50       43          26    35.80      56.961112
