@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Numpy_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/About_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_combiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_combiner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testing_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1A2B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/1A2B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/About_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit_encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Bit_encode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort_OO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/BubbleSort_OO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort_OO_Re.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/BubbleSort_OO_Re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Display_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Display_override.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Lab_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_combiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/List_combiner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NstepTimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/NstepTimes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Numpy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object_ori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Object_ori.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Testing_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_file_RNW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/The_file_RNW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/tester.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File" />
       <recent name="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon" />
       <recent name="C:\Users\jimmy_000\Desktop\iTalthon\venv" />
     </key>
@@ -65,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\About_pandas.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\About_pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_combiner.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\List_combiner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NstepTimes.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\NstepTimes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy_test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\Numpy_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The_file_RNW.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\The_file_RNW.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
