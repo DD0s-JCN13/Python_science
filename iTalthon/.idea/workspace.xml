@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Program_File/File_RNW/The_try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program_File/Window_maker/Maker_science.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/List_combiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/List_combiner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/Pandas_Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/Pandas_Testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/Score_save.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/Score_save.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/Testing_text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/The_file_RNW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/The_file_RNW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/Window_maker/Maker_science.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Window_maker/Maker_science.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
