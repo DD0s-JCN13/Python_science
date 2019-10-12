@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program_File/Pandas_Testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program_File/File_RNW/The_try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program_File/Window_maker/Maker_science.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/Testing_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/List_combiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/List_combiner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/Pandas_Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/Pandas_Testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/Score_save.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/Score_save.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/Testing_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/Testing_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/The_file_RNW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/File_RNW/The_file_RNW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/tester.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\File_RNW" />
       <recent name="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File" />
       <recent name="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon" />
       <recent name="C:\Users\jimmy_000\Desktop\iTalthon\venv" />
@@ -52,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Pandas_Testing">
+  <component name="RunManager" selected="Python.Maker_science">
     <configuration name="About_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/List_combiner.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\File_RNW\List_combiner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List_combiner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maker_science" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,32 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File/Window_maker" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\List_combiner.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Numpy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="iTalthon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\Numpy_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/Window_maker/Maker_science.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +135,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/Pandas_Testing.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\File_RNW\Pandas_Testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="The_try_except" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="iTalthon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\File_RNW\The_try_except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Maker_science" />
+        <item itemvalue="Python.The_try_except" />
         <item itemvalue="Python.Pandas_Testing" />
         <item itemvalue="Python.About_pandas" />
         <item itemvalue="Python.List_combiner (1)" />
-        <item itemvalue="Python.Numpy_test" />
-        <item itemvalue="Python.List_combiner" />
       </list>
     </recent_temporary>
   </component>
