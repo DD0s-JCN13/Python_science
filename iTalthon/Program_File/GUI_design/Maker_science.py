@@ -3,11 +3,8 @@ from tkinter import *
 top = Tk()
 top._root().title("Title here")
 window_scale = Canvas(top, color=None, height="100", width="450")
-"""text1 = Text(top)
-text1.insert(INSERT, "Text here.")
-text1.insert(END, "Put text here.")
-text1.pack()
-"""
+
+
 def clicker():
     check1_in.set(0)
     check2_in.set(0)
@@ -37,6 +34,7 @@ check1.pack()
 check2.pack()
 button1 = Button(top, text="Try me", command=clicker)
 button1.pack(side = BOTTOM)
+
 window_scale.pack()
 top.mainloop()
 
