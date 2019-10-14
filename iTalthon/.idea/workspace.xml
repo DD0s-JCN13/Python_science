@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Program_File/GUI_design/GUI_pane_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_File/GUI_design/GUI_pane_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/GUI_design/GUI_pane_window.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,8 +160,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.GUI_pane_window" />
-        <item itemvalue="Python.Maker_science (1)" />
         <item itemvalue="Python.Message_box_pop" />
+        <item itemvalue="Python.Maker_science (1)" />
         <item itemvalue="Python.Maker_science" />
         <item itemvalue="Python.The_try_except" />
       </list>
