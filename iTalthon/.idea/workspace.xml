@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9089a7-491a-4a65-882e-7d221ae194a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Program_File/GUI_design/Message_box_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program_File/GUI_design/GUI_pane_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_File/Window_maker/Maker_science.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_File/GUI_design/Maker_science.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Message_box_pop">
-    <configuration name="About_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GUI_pane_window">
+    <configuration name="GUI_pane_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +60,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File/GUI_design" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/About_pandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/GUI_design/GUI_pane_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Maker_science (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="iTalthon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File/GUI_design" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program_File/GUI_design/Maker_science.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,27 +136,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pandas_Testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="iTalthon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Program_File" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jimmy_000\Documents\GitHub\Python_science\iTalthon\Program_File\File_RNW\Pandas_Testing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="The_try_except" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="iTalthon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GUI_pane_window" />
+        <item itemvalue="Python.Maker_science (1)" />
         <item itemvalue="Python.Message_box_pop" />
         <item itemvalue="Python.Maker_science" />
         <item itemvalue="Python.The_try_except" />
-        <item itemvalue="Python.Pandas_Testing" />
-        <item itemvalue="Python.About_pandas" />
       </list>
     </recent_temporary>
   </component>
