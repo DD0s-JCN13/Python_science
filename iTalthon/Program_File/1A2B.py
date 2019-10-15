@@ -22,7 +22,7 @@ def gamer():
     while starter:
         if counter == 4:
             print("Game Over!!")
-            starter = False
+            break
         while counter < 5:
             result = 0
             answer = input("請輸入你的答案：")
@@ -34,7 +34,7 @@ def gamer():
                         else:
                             result += 1
             print(str(int(result/10)) + 'A' + str(result%10) + 'B')
-            counter += 1
+            counter = counter + 1
             if result == 40:
                 print("恭喜你，答案就是" + str(finans))
                 starter = False

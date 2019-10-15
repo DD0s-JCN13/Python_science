@@ -9,10 +9,17 @@ main_win.title("EZ Calculator")
 
 class Returner:
     result = 0
+    roman = 0
 
 
-def alerter_empty():
-    messagebox.showwarning("Warning", "It can't be empty value for blanks!")
+def default_empty():
+    if ent_front.get() is "" and ent_back.get() is "":
+        ent_front.insert(0, "0")
+        ent_back.insert(0, "0")
+    elif ent_front.get() is "" and ent_back.get() is not "":
+        ent_front.insert(0, "0")
+    elif ent_back.get() is "" and ent_front.get() is not "":
+        ent_back.insert(0, "0")
 
 
 def alerter_format():
@@ -21,7 +28,8 @@ def alerter_format():
 
 def the_plus():
     if ent_front.get() is "" or ent_back.get() is "":
-        alerter_empty()
+        default_empty()
+        the_plus()
     else:
         fronter = ent_front.get()
         backer = ent_back.get()
@@ -33,7 +41,8 @@ def the_plus():
 
 def the_minus():
     if ent_front.get() is "" or ent_back.get() is "":
-        alerter_empty()
+        default_empty()
+        the_minus()
     else:
         fronter = ent_front.get()
         backer = ent_back.get()
@@ -45,7 +54,8 @@ def the_minus():
 
 def the_multi():
     if ent_front.get() is "" or ent_back.get() is "":
-        alerter_empty()
+        default_empty()
+        the_multi()
     else:
         fronter = ent_front.get()
         backer = ent_back.get()
@@ -57,7 +67,8 @@ def the_multi():
 
 def the_divis():
     if ent_front.get() is "" or ent_back.get() is "":
-        alerter_empty()
+        default_empty()
+        the_divis()
     else:
         fronter = ent_front.get()
         backer = ent_back.get()
@@ -70,13 +81,18 @@ def the_divis():
 
 
 def resulting():
-    messagebox.showinfo("Result", "The result is " + str(Returner.result))
+    if Returner.roman > 0:
+        messagebox.showwarning("Warning", "Check the input if you delete something, or press Clean button to rework!")
+    else:
+        messagebox.showinfo("Result", "The result is " + str(Returner.result))
+        Returner.roman = 1
 
 
 def cleaning():
     ent_front.delete(first=0, last=len(ent_front.get()))
     ent_back.delete(first=0, last=len(ent_back.get()))
     Returner.result = 0
+    Returner.roman = 0
 
 #End of function coding
 
