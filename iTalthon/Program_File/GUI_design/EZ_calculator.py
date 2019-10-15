@@ -40,7 +40,7 @@ def the_minus():
         if fronter.isdigit() is False or backer.isdigit() is False:
             alerter_format()
         else:
-            Returner.result = float(fronter) + float(backer)
+            Returner.result = float(fronter) - float(backer)
 
 
 def the_multi():
@@ -52,7 +52,7 @@ def the_multi():
         if fronter.isdigit() is False or backer.isdigit() is False:
             alerter_format()
         else:
-            Returner.result = float(fronter) + float(backer)
+            Returner.result = float(fronter) * float(backer)
 
 
 def the_divis():
@@ -63,6 +63,8 @@ def the_divis():
         backer = ent_back.get()
         if fronter.isdigit() is False or backer.isdigit() is False:
             alerter_format()
+        elif str(ent_back.get()) is "0":
+            messagebox.showwarning("Warning", "The result is not exist!")
         else:
             Returner.result = float(fronter) / float(backer)
 
