@@ -10,6 +10,7 @@ main_win.title("EZ Calculator")
 class Returner:
     result = 0
     roman = 0
+    func_list = ""
 
 
 def default_empty():
@@ -36,7 +37,9 @@ def the_plus():
         if fronter.isdigit() is False or backer.isdigit() is False:
             alerter_format()
         else:
+            ent_select_func.insert(0, "+")
             Returner.result = float(fronter) + float(backer)
+            Returner.func_list = str(fronter) + " " + "+ " + str(backer)
 
 
 def the_minus():
@@ -49,7 +52,9 @@ def the_minus():
         if fronter.isdigit() is False or backer.isdigit() is False:
             alerter_format()
         else:
+            ent_select_func.insert(0, "-")
             Returner.result = float(fronter) - float(backer)
+            Returner.func_list = str(fronter) + " " + "- " + str(backer)
 
 
 def the_multi():
@@ -62,7 +67,9 @@ def the_multi():
         if fronter.isdigit() is False or backer.isdigit() is False:
             alerter_format()
         else:
+            ent_select_func.insert(0, "*")
             Returner.result = float(fronter) * float(backer)
+            Returner.func_list = str(fronter) + " " + "* " + str(backer)
 
 
 def the_divis():
@@ -77,22 +84,26 @@ def the_divis():
         elif str(ent_back.get()) is "0":
             messagebox.showwarning("Warning", "The result is not exist!")
         else:
+            ent_select_func.insert(0, "/")
             Returner.result = float(fronter) / float(backer)
+            Returner.func_list = str(fronter) + " " + "/ " + str(backer)
 
 
 def resulting():
     if Returner.roman > 0:
         messagebox.showwarning("Warning", "Check the input if you delete something, or press Clean button to rework!")
     else:
-        messagebox.showinfo("Result", "The result is " + str(Returner.result))
+        messagebox.showinfo("Result", "The result of " + Returner.func_list + " = " + str(Returner.result))
         Returner.roman = 1
 
 
 def cleaning():
     ent_front.delete(first=0, last=len(ent_front.get()))
     ent_back.delete(first=0, last=len(ent_back.get()))
+    ent_select_func.delete(first=0, last=len(ent_select_func.get()))
     Returner.result = 0
     Returner.roman = 0
+    Returner.func_list = ""
 
 #End of function coding
 
@@ -120,17 +131,26 @@ pane1.pack(fill=X, expand=1)
 pane2 = PanedWindow(t_lft_frame, orient=VERTICAL)
 pane2.pack(fill=X, expand=1)
 
+pane3 = PanedWindow(t_lft_frame, orient=VERTICAL)
+pane3.pack(fill=X, expand=1)
+
 mainer = Label(pane1, text="Front number", width=15)
 pane1.add(mainer)
 
 sub_mainer = Label(pane2, text="Back number", width=15)
 pane2.add(sub_mainer)
 
+third_mainer = Label(pane3, text="Selected function", width=15)
+pane3.add(third_mainer)
+
 ent_front = Entry(t_rht_frame, bd=4)
 ent_front.pack()
 
 ent_back = Entry(t_rht_frame, bd=4)
 ent_back.pack()
+
+ent_select_func = Entry(t_rht_frame, bd=4)
+ent_select_func.pack()
 
 #End coding for top frame
 #Programs for bottom frame below
