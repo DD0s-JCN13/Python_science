@@ -28,7 +28,7 @@ check2_in = IntVar()
 
 check1 = Checkbutton(top, text="Was this a test?", variable=check1_in, \
                      onvalue=1, offvalue=0, height=5, width=20)
-check2 = Checkbutton(top, text="Say hello to iTalthon", variable=check2_in, \
+check2 = Checkbutton(top, text="Say hello to python_myproject", variable=check2_in, \
                      onvalue=1, offvalue=0, height=5, width=20)
 check1.pack()
 check2.pack()
